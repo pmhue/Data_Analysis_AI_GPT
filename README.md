@@ -2,7 +2,7 @@
 
 ## Giới Thiệu
 
-Chào mừng bạn đến với kênh Data Science Lab! Trong video này, mình sẽ cùng với bạn xây dựng một công cụ phân tích dữ liệu hữu ích và tiện lợi tên là DAGPT (Data Analysis GPT). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, OpenAI API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
+Mình sẽ cùng với bạn xây dựng một công cụ phân tích dữ liệu hữu ích và tiện lợi tên là DAGPT (Data Analysis GPT). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, OpenAI API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
 
 ## Nội Dung Video
 
@@ -51,7 +51,7 @@ Chào mừng bạn đến với kênh Data Science Lab! Trong video này, mình 
 
 ## Liên Hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy để lại bình luận dưới video hoặc liên hệ với mình qua email: [datasciencelab.ai@gmail.com].
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy để lại bình luận dưới hoặc liên hệ với mình qua email: [phanminhhuept@gmail.com].
 
 ## Liên Kết Hữu Ích
 
@@ -63,11 +63,11 @@ Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy để lại bìn
 
 ## Tác Giả
 
-[Data Science Lab](https://www.youtube.com/@datascience-lab) - Người bạn đồng hành cùng mọi người trên con đường chinh phục lĩnh vực Khoa Học Dữ Liệu và AI
+[phanminhhuept@gmail) - Người bạn đồng hành cùng mọi người trên con đường chinh phục lĩnh vực Khoa Học Dữ Liệu và AI
 
 ---
 
-Cảm ơn bạn đã theo dõi! Hãy nhấn nút Đăng Ký và Bật Thông Báo để không bỏ lỡ những nội dung mới nhất.
+Cảm ơn bạn đã theo dõi! 
 
 ## Phụ Lục: Cách Thiết Lập Khóa API của OpenAI
 
