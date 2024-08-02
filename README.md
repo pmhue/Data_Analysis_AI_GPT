@@ -243,5 +243,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 - [Pygwalker](https://github.com/Kanaries/pygwalker)
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2024 Phan Minh Hue
