@@ -129,8 +129,8 @@ Welcome! This tool allows you to explore your data interactively using various v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pmhue/Data_Analysys_AI_GPT.git
-   cd Data_Analysys_AI_GPT
+   git clone https://github.com/pmhue/Data_Analysis_AI_GPT.git
+   cd Data_Analysis_AI_GPT
    ```
 
 2. Create a virtual enviroment:
