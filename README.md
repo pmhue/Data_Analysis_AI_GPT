@@ -1,4 +1,4 @@
-# Hướng Dẫn Xây Dựng Công Cụ Trợ Giúp Phân Tích Dữ Liệu (DAGPT)
+# Hướng Dẫn Xây Dựng Project AI LLMs Trợ Giúp Phân Tích Dữ Liệu (DAGPT)
 
 ## Giới Thiệu
 
