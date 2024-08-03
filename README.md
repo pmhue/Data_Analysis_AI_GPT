@@ -28,7 +28,7 @@ Mình sẽ cùng với bạn xây dựng một công cụ phân tích dữ liệ
 #### Bước 1: Thiết Lập Cơ Bản
 
 - Xây dựng cấu trúc dự án.
-- Thiết lập môi trường ảo.
+- Thiết lập môi trường ảo. Dùng Anaconda để tạo một môi trường
 - Cài đặt các gói cần thiết.
 - Thiết lập kho lưu trữ Git để lưu trữ mã nguồn dự án.
 
@@ -138,6 +138,7 @@ Welcome! This tool allows you to explore your data interactively using various v
     ```
     python -m venv .venv
     source .venv/bin/activate   # On Windows use `.venv\Scripts\activate`
+    or: use Anaconda to create a env
     ```
 
 3. Install the required dependencies:
